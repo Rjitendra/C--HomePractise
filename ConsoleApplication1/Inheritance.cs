@@ -26,7 +26,7 @@ namespace ConsoleApplication1
         {
             base.Display();
             Console.WriteLine("this is SecondClass");
-        }//
+        }//k
         public virtual void GetEmployee()
         {
             List<string> names =this.names();
