@@ -8,7 +8,7 @@ namespace ConsoleApplication1
 {
     public class BaseClass
     {
-        public void Display()
+        public void Display()//
         {
             Console.WriteLine("Well Come to Inheritance");
         }
